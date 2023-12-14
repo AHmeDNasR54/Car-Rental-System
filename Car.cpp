@@ -2,8 +2,7 @@
 
 Car::Car()
 {
-    //ctor
-
+  availability=true;
 }
 
 Car::~Car()
