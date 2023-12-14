@@ -7,7 +7,7 @@ using namespace std;
 class Car
 {
 private:
-    string make,model,color;bool availability=true;
+    string make,model,color;bool availability;
     int year,ID;
     double price;
     //reservation
